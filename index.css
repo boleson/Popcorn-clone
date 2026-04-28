@@ -206,6 +206,7 @@ body {
   margin: auto;
   margin-top: 70px;
   min-height: 650px;
+  object-fit: contain;
 }
 .phones .img1,
 .phones .img2 {
